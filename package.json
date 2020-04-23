@@ -1,5 +1,5 @@
 {
-  "name": "next-starter-jamstack",
+  "name": "jellyfish-nextjs",
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
@@ -10,5 +10,7 @@
     "next": "9.3.5",
     "react": "16.13.1",
     "react-dom": "16.13.1"
-  }
+  },
+  "keywords": [],
+  "description": ""
 }
